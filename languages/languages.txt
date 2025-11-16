@@ -1,0 +1,8 @@
+Just json file to another languages
+include file:
+pattern.json
+special.json
+intents.json
+responses.json
+
+Call for Develope....
