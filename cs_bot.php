@@ -125,8 +125,12 @@ class SimpleChatbot {
         }
         
         // DEBUG: Uncomment untuk melihat final decision
-        if (!$bestMatch) { global $unknownx; $unknownx = true; }
-        return ($highestScore >= $threshold) ? $bestMatch : 'unknown';
+        if ($highestScore < $threshold) {
+            global $unknownx;
+            $unknownx = true;
+            return 'unknown';
+        }
+        return $bestMatch;
     }
     
     /**
