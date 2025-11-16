@@ -5,7 +5,7 @@ include('config.php');
 // Check if chat directory exists (needed for file_exists check)
 if (!is_dir($chat_dir)) {
     mkdir($chat_dir, 0777, true);
-    file_put_contents($chat_dir . 'index.php', 'protected');
+    file_put_contents($chat_dir . 'index.php', 'protected by sourceid');
 }
 
 $ip_addr = str_replace('.', '_', $_SERVER['REMOTE_ADDR']);
@@ -229,4 +229,5 @@ $is_new_session = empty($chat_history);
 </script>
 </body>
 <!-- by sourceid - pls not remove credid -->
+
 </html>
