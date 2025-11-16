@@ -1,0 +1,91 @@
+{
+    "nullInfo": [
+        "I AM NOT SURE I UNDERSTAND. CAN YOU CLARIFY?",
+        "I CAN'T FIND INFO ABOUT THAT. PLEASE REPEAT THE QUESTION MORE CLEARLY.",
+        "TELL ME MORE ABOUT THAT.",
+        "I'M NOT SURE HOW TO RESPOND TO YOUR STATEMENT.",
+        "OK, CONTINUE I'M LISTENING...",
+        "I SEE, PLEASE CONTINUE.",
+        "I OFTEN WONDERED ABOUT THAT.",
+        "DOES THAT EXPLAIN SOMETHING?",
+        "YOU MIGHT TRY TO EXPLAIN TO ME WHAT THAT MEANS.",
+        "PLEASE KEEP YOUR SENTENCES SIMPLE.",
+        "CAN YOU GO OVER THAT AGAIN, PLEASE?",
+        "YOU'RE NOT THE FIRST TO SAY THAT.",
+        "WHAT ARE YOU LISTENING TO AT THE MOMENT?",
+        "COULD YOU REPHRASE? I'M HERE TO HELP!",
+        "VISIT SEARCH PAGE FOR MORE INFO.",
+        "LET'S FIND THE ANSWER TOGETHER. ANY DETAILS?",
+        "THANKS FOR ASKING! CAN YOU PROVIDE MORE CONTEXT?",
+        "CAN YOU EXPLAIN THAT IN DIFFERENT WORDS?",
+        "I'M HAVING TROUBLE UNDERSTANDING. CAN YOU BE MORE SPECIFIC?"
+    ],
+    
+    "inputRepeat": [
+        "YOU'VE ALREADY SAID THAT. PLEASE, STOP REPEATING YOURSELF.",
+        "I HEARD YOU THE FIRST TIME. WHAT ELSE CAN WE TALK ABOUT?",
+        "WHAT'S THE POINT TO ALL THIS?",
+        "PLEASE STOP REPEATING YOURSELF.",
+        "CAN'T YOU THINK OF SOMETHING ELSE TO SAY?",
+        "DO YOU EXPECT A DIFFERENT ANSWER BY REPEATING YOURSELF?",
+        "WE ALREADY DISCUSSED THAT. LET'S MOVE ON TO SOMETHING ELSE."
+    ],
+    
+    "isSpam": [
+        "I THINK INFORMATION ABOUT THAT IS VERY DIFFICULT TO FIND. LET'S STICK TO CONVERSATION.",
+        "I WORRY I CANNOT HELP ABOUT THAT. PLEASE USE NORMAL ENGLISH WORDS.",
+        "WHAT'S THAT SUPPOSED TO MEAN?",
+        "AT LEAST TAKE SOME TIME TO ENTER SOMETHING MEANINGFUL.",
+        "PLEASE USE PROPER SENTENCES SO I CAN UNDERSTAND YOU BETTER.",
+        "I'M HAVING TROUBLE FOLLOWING YOUR MESSAGE. CAN YOU CLARIFY?"
+    ],
+    
+    "noSpam": [
+        "THE", "AND", "YOU", "ARE", "FOR", "THAT", "HAVE", "WITH", "THIS", "FROM",
+        "BUT", "WHAT", "WHEN", "CAN", "WHO", "HOW", "SAY", "SHE", "WILL", "ONE",
+        "ALL", "WOULD", "THERE", "THEIR", "SO", "UP", "OUT", "IF", "ABOUT",
+        "WHICH", "GET", "GO", "ME", "MAKE", "LIKE", "TIME", "JUST",
+        "HIM", "KNOW", "TAKE", "PEOPLE", "INTO", "YEAR", "YOUR", "GOOD", "SOME",
+        "COULD", "SEE", "OTHER", "THAN", "THEN", "NOW", "LOOK", "ONLY", "COME",
+        "ITS", "OVER", "THINK", "ALSO", "BACK", "AFTER", "USE", "TWO",
+        "OUR", "WORK", "FIRST", "WELL", "WAY", "EVEN", "NEW", "WANT", "BECAUSE",
+        "ANY", "THESE", "GIVE", "DAY", "MOST", "US", "SUCH", "MANY", "LIFE", "LAST"
+    ],
+    
+    "transposList": [
+        [" I AM ", " YOU ARE "],
+        [" I'M ", " YOU ARE "],
+        [" MY ", " YOUR "],
+        [" MINE ", " YOURS "],
+        [" YOU ", " I "],
+        [" YOUR ", " MY "],
+        [" YOURS ", " MINE "],
+        [" ARE YOU ", " AM I "],
+        [" WAS I ", " WERE YOU "],
+        [" ME ", " YOU "],
+        [" MYSELF ", " YOURSELF "],
+        [" AM ", " ARE "],
+        [" WAS ", " WERE "],
+        [" DAD ", " FATHER "],
+        [" MOM ", " MOTHER "],
+        [" DREAM ", " DREAMS "],
+        [" I HAVE ", " YOU HAVE "],
+        [" I FEEL ", " YOU FEEL "],
+        [" I WANT ", " YOU WANT "]
+    ],
+    
+    "correctionList": [
+        [" IM ", " I'M "],
+        [" YOURE ", " YOU'RE "],
+        [" DONT ", " DON'T "],
+        [" CANT ", " CAN'T "],
+        [" WONT ", " WON'T "],
+        [" RECOLLECT ", " REMEMBER "],
+        [" DREAMT ", " DREAMED "],
+        [" PERHAPS ", " MAYBE "],
+        [" ITS ", " IT'S "],
+        [" THEYRE ", " THEY'RE "],
+        [" ISNT ", " ISN'T "],
+        [" ARENT ", " AREN'T "]
+    ]
+}

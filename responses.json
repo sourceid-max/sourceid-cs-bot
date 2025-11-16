@@ -1,0 +1,390 @@
+{
+  "greeting": [
+    "Hello! Welcome to DigitalWeb Solutions! How can I assist you today?",
+    "Hi there! I'm here to help with our digital products and services. What can I do for you?",
+    "Good day! Thank you for contacting DigitalWeb. How may I help you?",
+    "Welcome! Ready to explore our digital products? How can I assist?"
+  ],
+  
+  "goodbye": [
+    "Goodbye! Thank you for choosing DigitalWeb Solutions!",
+    "See you later! Feel free to contact us anytime at <a href='contact.php'>contact page</a>",
+    "Have a wonderful day! Remember we're here to help with your digital needs.",
+    "Take care! Visit our <a href='product.php'>products page</a> for latest updates."
+  ],
+  
+  "thanks": [
+    "You're welcome! Happy to assist you with our digital solutions.",
+    "No problem! That's what we're here for at DigitalWeb.",
+    "My pleasure! Let me know if you need anything else about our products.",
+    "You're very welcome! Check out our <a href='articles.php'>help articles</a> for more info."
+  ],
+  
+  "products": [
+    "We specialize in digital products: eBooks, templates, coding resources, online courses, and business consulting. <a href='product.php'>Browse our products here</a>",
+    "DigitalWeb offers premium digital assets including website templates, programming scripts, training courses, and business development resources. <a href='product.php'>See all products</a>",
+    "Our digital portfolio includes eBooks, design templates, source codes, online training, and professional consultation services. <a href='product.php'>View catalog</a>",
+    "We provide high-quality digital products for personal and business growth. <a href='product.php'>Explore our offerings</a>"
+  ],
+  
+  "product_info": [
+    "I'd be happy to provide detailed information! Which specific product are you interested in? You can also check <a href='product.php'>our product page</a>",
+    "Let me give you the details. Our products come with full documentation and support. <a href='faq.php'>FAQ page</a> has additional info",
+    "For comprehensive product specifications and features, please visit our <a href='product.php'>detailed product pages</a>",
+    "I can provide specific information about any product. Which one catches your interest?"
+  ],
+  
+  "product_quality": [
+    "All our digital products undergo rigorous quality testing and are regularly updated. We maintain premium standards across all offerings.",
+    "Quality is our priority! Every product is carefully crafted and reviewed by experts in their respective fields.",
+    "We guarantee high-quality digital products with excellent performance and reliability. Check <a href='alltesti.php'>customer testimonials</a>",
+    "Our products are known for their superior quality and professional standards. We stand behind every item we sell."
+  ],
+  
+  "digital_products": [
+    "Our digital products are instantly downloadable after purchase and include lifetime updates in most cases. <a href='product.php'>Browse digital collection</a>",
+    "All products are digital - no shipping required! Immediate access upon purchase. <a href='member.php'>Member area</a> for downloads",
+    "Digital products mean instant delivery and easy updates. Perfect for immediate use! <a href='product.php'>See available products</a>"
+  ],
+  
+  "new_product": [
+    "We regularly launch new digital products! Check our <a href='product.php'>new arrivals section</a> for the latest offerings.",
+    "Exciting new products are added frequently! Visit our <a href='product.php'>products page</a> to see what's new.",
+    "Stay updated with our latest digital products by checking the <a href='product.php'>new releases section</a>",
+    "New digital resources are coming soon! Keep an eye on our <a href='product.php'>product page</a> for updates."
+  ],
+  
+  "customization": [
+    "Many of our products can be customized! Please specify your requirements and we'll check customization options.",
+    "Customization services are available for most products. Contact us through <a href='contact.php'>this form</a> for custom requests",
+    "We offer customization for templates, codes, and some training materials. Let me know what you need!",
+    "Custom solutions available! Describe your requirements and we'll provide customization options."
+  ],
+  
+  "price_inquiry": [
+    "Prices vary by product. You can check specific pricing on each <a href='product.php'>product page</a>",
+    "Our pricing is competitive and reflects the quality of our digital products. Visit <a href='product.php'>product catalog</a> for prices",
+    "Product prices are listed on individual product pages. <a href='product.php'>Browse here</a> to see current pricing",
+    "I can provide pricing for specific products. Which items are you interested in?"
+  ],
+  
+  "ebook": [
+    "We offer a wide range of eBooks on technology, business, and personal development. <a href='search.php?category=ebook'>Browse eBooks</a>",
+    "Our eBook collection covers various topics with instant digital delivery. <a href='product.php?type=ebook'>View eBook selection</a>",
+    "Digital eBooks available for immediate download after purchase. <a href='search.php?q=ebook'>Search eBooks</a>"
+  ],
+  
+  "template": [
+    "Professional templates for websites, emails, documents and more. <a href='search.php?category=template'>Browse templates</a>",
+    "Our template collection includes responsive designs and modern layouts. <a href='product.php?type=template'>View templates</a>",
+    "High-quality templates ready for immediate use. <a href='search.php?q=template'>Search template gallery</a>"
+  ],
+  
+  "programming": [
+    "Programming resources, source codes, and developer tools available. <a href='search.php?category=programming'>Code resources</a>",
+    "Our programming section includes scripts, plugins, and development tools. <a href='product.php?type=code'>View coding products</a>",
+    "Developer resources and source codes for various programming languages. <a href='search.php?q=programming'>Search code library</a>"
+  ],
+  
+  "training": [
+    "Comprehensive online training courses and video tutorials. <a href='search.php?category=training'>Browse courses</a>",
+    "Our training programs cover technical skills and business knowledge. <a href='product.php?type=course'>View training</a>",
+    "Self-paced online courses with expert instruction. <a href='member.php'>Member area</a> for course access"
+  ],
+  
+  "consultation": [
+    "Professional consultation services for business and technical projects. <a href='contact.php'>Request consultation</a>",
+    "One-on-one expert consultation available. <a href='service.php'>View consultation services</a>",
+    "Get personalized advice from our industry experts. <a href='contact.php'>Schedule consultation</a>"
+  ],
+  
+  "contact_us": [
+    "You can reach us through our <a href='contact.php'>contact form</a> or email support@digitalweb.com",
+    "Contact our team via <a href='contact.php'>contact page</a> for personalized assistance",
+    "We're here to help! Use our <a href='contact.php'>contact form</a> for quick response"
+  ],
+  
+  "promo": [
+    "Check our current promotions and special offers on the <a href='product.php?promo=1'>promotions page</a>",
+    "We run regular promotions! Visit <a href='product.php'>products page</a> to see current deals",
+    "Special offers available! Browse <a href='search.php?promo=1'>promotional products</a>"
+  ],
+  
+  "discount": [
+    "Discount codes are sometimes available for newsletter subscribers. Check our <a href='product.php'>website</a> for current offers",
+    "We offer seasonal discounts and special promotions. <a href='product.php'>View current pricing</a>",
+    "Discount opportunities are announced through our newsletter and website. <a href='contact.php'>Subscribe for updates</a>"
+  ],
+  
+  "order": [
+    "Ready to order? You can browse products and add to cart on our <a href='product.php'>product page</a>",
+    "To purchase, simply select your products and proceed to <a href='checkout.php'>checkout</a>",
+    "Ordering is easy! Choose products and complete purchase through <a href='cart.php'>shopping cart</a>"
+  ],
+  
+  "order_status": [
+    "To check your order status, please provide your invoice number or check your <a href='member.php'>member area</a>",
+    "Order tracking available in your <a href='member.php'>account dashboard</a> with invoice number",
+    "I can check your order status with the invoice number. You can also check <a href='member.php'>member portal</a>"
+  ],
+  
+  "payment": [
+    "We accept various payment methods including credit cards and bank transfers. <a href='checkout.php'>Checkout page</a> has details",
+    "Secure payment processing available. Complete your purchase at <a href='checkout.php'>checkout</a>",
+    "Multiple payment options supported. <a href='faq.php#payment'>Payment FAQ</a> has complete information"
+  ],
+  
+  "delivery": [
+    "All products are digital and delivered instantly via email and <a href='member.php'>member area</a> after payment",
+    "Instant digital delivery! No shipping required. Access products immediately in <a href='member.php'>your account</a>",
+    "Digital products are available immediately after purchase in your <a href='member.php'>member dashboard</a>"
+  ],
+  
+  "refund": [
+    "Refund policy details are available on our <a href='faq.php#refund'>FAQ page</a>. Digital products may have specific terms.",
+    "Please review our refund policy at <a href='faq.php'>FAQ section</a> or contact us for specific cases",
+    "Refund requests are handled case by case. Contact us through <a href='contact.php'>contact form</a> for assistance"
+  ],
+  
+  "help": [
+    "I'm here to help! You can also check our <a href='faq.php'>FAQ page</a> for quick answers",
+    "Happy to assist! For detailed help, visit our <a href='help.php'>help center</a>",
+    "I can help with that! Also explore <a href='articles.php'>help articles</a> for additional resources"
+  ],
+  
+  "faq": [
+    "Find answers to common questions in our <a href='faq.php'>Frequently Asked Questions section</a>",
+    "Our <a href='faq.php'>FAQ page</a> covers most common inquiries about products and services",
+    "Quick answers available in <a href='faq.php'>FAQ section</a>. Let me know if you need more specific help"
+  ],
+  
+  "articles": [
+    "Browse our knowledge base and articles at <a href='articles.php'>articles section</a>",
+    "Helpful guides and tutorials available in <a href='articles.php'>articles library</a>",
+    "Educational content and how-to guides in our <a href='articles.php'>articles collection</a>"
+  ],
+  
+  "forum": [
+    "Join our community discussion at <a href='forum/'>community forum</a>",
+    "Connect with other users in our <a href='forum/'>discussion forum</a>",
+    "Get community support and share experiences in <a href='forum/'>our forum</a>"
+  ],
+  
+  "technical_help": [
+    "Technical support available! Describe your issue or visit <a href='faq.php#technical'>technical help section</a>",
+    "I can help with technical issues. You can also check <a href='articles.php'>help articles</a> for solutions",
+    "Technical assistance provided. Contact us through <a href='contact.php'>support form</a> for detailed help"
+  ],
+  
+  "affiliate": [
+    "Join our affiliate program and earn commissions! Details at <a href='affiliate.php'>affiliate page</a>",
+    "Our affiliate program offers great earning potential. <a href='affiliate.php'>Learn more here</a>",
+    "Earn money by promoting our products! Check <a href='affiliate.php'>affiliate program details</a>"
+  ],
+  
+  "sell_my_digital": [
+    "Interested in selling your digital products with us? Visit <a href='sell.php'>vendor application page</a>",
+    "We welcome quality digital product creators! <a href='sell.php'>Apply to become a seller</a>",
+    "Monetize your digital creations through our platform. <a href='sell.php'>Seller information here</a>"
+  ],
+  
+  "feedback": [
+    "We value your feedback! Share your experience through our <a href='feedback.php'>feedback form</a>",
+    "Thank you for your feedback! You can also leave reviews on product pages",
+    "Your input helps us improve! Use <a href='feedback.php'>feedback page</a> to share thoughts"
+  ],
+  
+  "complaint": [
+    "I'm sorry to hear about your experience. Please contact us through <a href='contact.php'>support form</a> so we can resolve this",
+    "I apologize for the issue. Our team will address your concern promptly via <a href='contact.php'>contact page</a>",
+    "Let us make this right. Please provide details through <a href='contact.php'>customer support</a>"
+  ],
+  
+  "smalltalk": [
+    "I'm Digital Assistant, your helpful AI from DigitalWeb Solutions! How can I help you today?",
+    "I'm an AI assistant created by DigitalWeb to help with our digital products and services!",
+    "I'm here to assist you with DigitalWeb's digital products and answer any questions you have!"
+  ],
+  
+  "busy": [
+    "Thank you for your patience! I'm here to help you now.",
+    "Sorry for any wait! How can I assist you with our digital products?",
+    "I appreciate your patience! What can I help you with today?"
+  ],
+  
+  "unknown": [
+    "I'm not sure I understand. Could you rephrase your question about our digital products or services?",
+    "I specialize in DigitalWeb's products and services. Could you provide more details about what you need?",
+    "I want to make sure I help you correctly. Could you give me more context about your inquiry?",
+    "I'm here to assist with our digital products, courses, and services. Could you clarify your question?",
+    "Let me direct you to our <a href='faq.php'>FAQ page</a> or <a href='contact.php'>contact form</a> for further assistance."
+  ],
+
+  "self_development": [
+    "That's a great mindset! Our courses on personal growth and skill development are perfect for you. Would you like me to recommend the best ones for your goals?",
+    "Absolutely love your focus on self-improvement! We have excellent programs on leadership, productivity, and soft skills. What area are you most interested in growing?",
+    "Wonderful choice! Investing in yourself is the best decision. Let me show you our top-rated self-development courses that thousands have loved."
+  ],
+
+  "business_development": [
+    "Fantastic! Whether you're scaling a business or just starting out, we have powerful courses on business strategy, marketing, and entrepreneurship. What stage is your business in right now?",
+    "Great to hear you're thinking about growth! Our business development programs have helped hundreds of entrepreneurs succeed. Would you like to see our startup or advanced strategy courses?",
+    "Perfect timing! Many successful business owners started with our proven frameworks. Let me help you find the right program for your business goals."
+  ],
+
+  "stock_check": [
+    "Let me check the availability for you right away! Could you please tell me which course or product you're interested in?",
+    "Of course! All our digital courses are instantly available with lifetime access. You'll get them immediately after purchase. Is there a specific one you're looking at?",
+    "Good news - since everything is digital, we never run out of stock! You can enroll anytime. Ready to get started?"
+  ],
+
+  "process": [
+    "I'd be happy to walk you through the process step by step! The enrollment is very simple and takes less than 2 minutes. Would you like me to guide you through it?",
+    "Certainly! Here's how it works: choose your course ? click enroll ? complete the secure payment ? get instant access. Super easy! Shall we begin?",
+    "No worries, I'll make it very clear for you. The whole process is designed to be fast and smooth. Would you like me to show you exactly how?"
+  ],
+
+  "service": [
+    "You're in the right place! I'm here to give you the best support possible. How can I assist you today?",
+    "Absolutely, customer happiness is our top priority! Please let me know how I can help you.",
+    "Of course! We pride ourselves on excellent service. What would you like assistance with?"
+  ],
+
+  "question": [
+    "I'd be happy to answer any questions you have! Please go ahead and ask - I'm all ears.",
+    "Of course! No question is too small. What would you like to know?",
+    "Great question! I'm here to help clarify everything for you. Please ask away!"
+  ],
+
+  "inquiry": [
+    "Happy to provide all the details you need! What specific information are you looking for?",
+    "Of course! I'll make sure you have everything you need to make the best decision. What would you like to know more about?",
+    "Absolutely, I'm here to help with any information you need. Please tell me more!"
+  ],
+
+  "negotiation": [
+    "I truly want to help you get the best value! We already offer some of the most competitive prices with huge discounts active right now. Would you like to see our current special offers?",
+    "I completely understand wanting the best deal. Many of our courses are currently on limited-time promotion with up to 90% off. Let me show you the best option for you!",
+    "We always aim to give the maximum value. The prices you see already include our biggest discounts of the year. Shall I help you secure your spot before the offer ends?"
+  ],
+
+  "objection": [
+    "I completely understand your concern, and it's very valid. Many of our students felt the same before joining - and now they're so glad they did. May I ask what specifically worries you?",
+    "That's a fair point! Let me help ease that concern for you. What part are you feeling unsure about?",
+    "Totally understandable. Could you share a bit more about your hesitation? I'd love to help address it directly."
+  ],
+
+  "comparison": [
+    "Great question! Let me give you a clear and honest comparison so you can choose confidently.",
+    "Happy to help you compare! Most customers find our courses offer better value, support, and results. Would you like me to highlight the key differences?",
+    "Excellent point! Let me show you side-by-side why thousands choose us over other platforms."
+  ],
+
+  "confirmation": [
+    "Let me double-check everything for you to make sure it's perfect!",
+    "Of course! I'll verify all the details right now so you can have complete peace of mind.",
+    "Absolutely, confirming now - everything looks good on my end! Ready to proceed?"
+  ],
+
+  "closing": [
+    "Wonderful! I'm so excited for you - this is going to be transformative! Let me help you complete your order in just a few clicks.",
+    "Yes! I'm thrilled you're ready to get started. I'll make this super quick and easy for you.",
+    "Amazing decision! You're about to take a big step forward. Shall we finalize your enrollment now?"
+  ],
+
+  "time": [
+    "Most students complete our popular courses in 4-8 weeks, studying at their own pace. You'll have lifetime access, so no rush at all!",
+    "Great question! You can finish as fast or as slowly as you like - many finish in just a few weeks, others take months. It's 100% flexible.",
+    "The timeline is completely up to you! You get unlimited time and can revisit the material forever."
+  ],
+
+  "warranty": [
+    "Yes! We offer a 30-day 100% money-back guarantee on all courses. If you're not thrilled, we'll refund you instantly - no questions asked.",
+    "Absolutely protected! You have a full 30 days to try the course risk-free. Your satisfaction is guaranteed.",
+    "You're completely covered with our 30-day satisfaction guarantee. Learn with total confidence!"
+  ],
+
+  "ask": [
+    "Of course! Please feel free to ask me anything - I'm here to help.",
+    "I'd love to help! What would you like to know?",
+    "Absolutely, go ahead and ask - no question is too big or small!"
+  ],
+
+  "news": [
+    "We just launched several new high-demand courses this month! Would you like to see what's new?",
+    "Exciting updates! We've added new expert-led programs and limited-time bundles. Let me show you the latest!",
+    "Great timing! We have fresh courses and special promotions running right now. Interested?"
+  ],
+
+  "assistant_request": [
+    "I understand you'd prefer to speak with a human agent. Our team is currently assisting other customers, but I'll make sure you're connected as soon as possible. In the meantime, I'm very capable of helping - shall we continue?",
+    "I'll do my very best to assist you right here and now! Most customers find I can resolve everything quickly. What can I help you with?",
+    "I'm here to give you fast and accurate help! But if you still prefer a human, I can arrange that for you shortly."
+  ],
+
+  "administrative_help": [
+    "Happy to help with any account or billing questions! Please let me know your email or order number and I'll take care of it right away.",
+    "Of course! Whether it's updating your profile, checking billing, or anything administrative - I'm here to fix it for you quickly.",
+    "No problem at all! Just share a few details and I'll handle the administrative task for you smoothly."
+  ],
+
+  "trust": [
+    "We've proudly served over 500,000+ happy students worldwide with a 4.9/5 rating. You're in very good hands!",
+    "Thousands of students trust us every day - and we work hard to earn that trust with quality and support.",
+    "Your trust means everything to us. That's why we offer a 30-day guarantee and lifetime support."
+  ],
+
+  "satisfaction": [
+    "That makes me so happy to hear! Thank you for your kind words - we truly appreciate you!",
+    "I'm thrilled you're satisfied! It's our greatest reward. Thank you for choosing us!",
+    "Wonderful! Customer happiness is what drives us every day. Thank you!"
+  ],
+
+  "constructive": [
+    "We truly value your feedback! Thank you for helping us improve - I'll pass this along to the team right away.",
+    "This is incredibly helpful! We're always looking to get better, and suggestions like yours make a real difference.",
+    "Thank you so much for taking the time to share your thoughts - we really appreciate it!"
+  ],
+
+  "opinion": [
+    "In my experience helping thousands of students, this course has been life-changing for many. But I'd love to hear more about your goals so I can give you the best recommendation!",
+    "Honestly? Our students consistently say it's one of the best investments they've ever made. But let me help you see if it's the right fit for you.",
+    "I genuinely believe this could be a great step for you - but only you know your needs best. May I understand more about what you're looking for?"
+  ],
+
+  "frustration": [
+    "I'm really sorry you're feeling frustrated - that's the last thing we want. Please let me fix this for you right away.",
+    "I completely understand, and I'm here to make things right. Tell me what happened and I'll resolve it immediately.",
+    "I'm truly sorry for any inconvenience. Let's get this sorted out quickly - your satisfaction is my top priority."
+  ],
+
+  "worry": [
+    "I understand your concern completely - it's normal to feel that way. Let me help put your mind at ease.",
+    "Please don't worry! You're fully protected with our 30-day guarantee, and I'm here to support you every step of the way.",
+    "That's a very common concern, and I'm happy to help you feel 100% confident before moving forward."
+  ],
+
+  "confusion": [
+    "No problem at all! I'll explain it in the simplest way possible. What part would you like me to clarify?",
+    "I'm sorry if it felt confusing - let me make it super clear for you right now.",
+    "Totally understandable! Let me break it down step by step so everything makes perfect sense."
+  ],
+
+  "happy": [
+    "That makes me so happy to hear! I'm smiling over here too!",
+    "Awesome! Your excitement is contagious - love it!",
+    "Yay! I'm thrilled you're feeling this way!"
+  ],
+
+  "enthusiasm": [
+    "I love your energy! You're going to do amazingly well - I can already tell!",
+    "That enthusiasm is exactly what leads to great results! So excited for you!",
+    "Yes! This kind of excitement is the best starting point. You're going to love the journey!"
+  ],
+
+  "make_money": [
+    "Wonderful goal! We have proven courses on digital marketing, freelancing, e-commerce, and online business that have helped thousands start earning more. Which area interests you most?",
+    "Many of our students started exactly where you are and now have successful income streams. Let me show you the best programs to help you make money online!",
+    "Excellent mindset! Our practical, step-by-step courses have launched countless side hustles and full businesses. Ready to explore your options?"
+  ]
+}

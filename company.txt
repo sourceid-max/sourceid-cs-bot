@@ -1,0 +1,11 @@
+{
+    "name": "Fashion Store",
+    "address": "123 Main Street, Jakarta, Indonesia",
+    "phone": "+62-21-1234567",
+    "email": "info@fashionstore.com",
+    "wa": "+6281234567890",
+    "telegram": "@fashionstore",
+    "cara_beli": "1. Browse products 2. Add to cart 3. Checkout 4. Make payment",
+    "security_policy": "We protect your data with encryption",
+    "warranty_policy": "1 year warranty for manufacturing defects"
+}
