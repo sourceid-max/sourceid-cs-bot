@@ -473,7 +473,7 @@ class ElizaBot {
 
             foreach ($triggerList as $trigger) {
                 $paddedTrigger = ' ' . strtoupper(trim($trigger)) . ' ';
-                $paddedMessage = ' ' . $message . ' ';
+                $paddedMessage = ' ' . strtoupper($message) . ' ';
                 
                 if (strpos($paddedMessage, $paddedTrigger) !== false) {
                     $response = $this->getRandomResponse($responseList);
