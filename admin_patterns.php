@@ -1,7 +1,7 @@
 <?php
 $patterns = loadJSONFile($data_dir . 'pattern.json');
 ?>
-Why in capital letters? Because I already have made Eliza's chat bot data from 2012.<br><br>
+Why in capital letters? Because I already have made Eliza's chat bot data from 2009.<br><br>
 
 <div class="card">
     <div class="card-header">Add New Pattern</div>
