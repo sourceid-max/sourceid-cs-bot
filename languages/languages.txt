@@ -1,9 +1,11 @@
-Just json file to another languages
+Just php and json file to another languages
 include file:
 cs_bot.php
 pattern.json
 special.json
 intents.json
 responses.json
+
+Use 3 char country/ lang code for folder name
 
 Call for Develope....
